@@ -21,7 +21,11 @@ function App() {
         paragraph = "say the words hello"
         />
       </div>
-      {/* <Modal /> */}
+      {/* <Modal 
+      title="want me to stay🥺🥺"
+      cancel="Leave😈"
+      keep="Stay🥰"
+      /> */}
     </div>
   );
 }
