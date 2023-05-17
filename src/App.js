@@ -24,7 +24,7 @@ function App() {
 
   useEffect(() => {
     console.log("hello")
-  })
+  }, [showModal])
 
   return (
     <div className="App">
