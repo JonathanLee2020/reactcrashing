@@ -22,6 +22,10 @@ function App() {
     console.log(`we have shut the modal`);
   }
 
+  useEffect(() => {
+    console.log("hello")
+  })
+
   return (
     <div className="App">
       <Title></Title>

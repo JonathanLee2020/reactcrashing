@@ -1,7 +1,6 @@
 import "./Todo.css"
 
 function Todo ({title, paragraph, deleteTask}) {
-    console.log({title});
     function deleteTodo(id) {
         // console.log(`deleted toDo`, title);
     }
